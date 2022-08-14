@@ -1,6 +1,6 @@
 #!/bin/bash
 while true
 do
-  echo $1
+  echo '{"foo": "bar", "amd": "yes"}'
   sleep 0.1
 done
