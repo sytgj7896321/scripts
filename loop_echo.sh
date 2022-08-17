@@ -2,5 +2,5 @@
 while true
 do
   echo '{"foo": "bar", "amd": "yes"}'
-  sleep 1
+  sleep 0.01
 done
